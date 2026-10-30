@@ -59,6 +59,6 @@ Screenshots of the installation, network configuration and verification are incl
 - Virtual machine snapshots.
 
 ## Author
-**Your Name**
+**Mohamed Safiudeen**
 
 Cybersecurity Lab – Week 1
